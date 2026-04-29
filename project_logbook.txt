@@ -18,4 +18,8 @@ Hi, I'm Xinyin
 (_／
 
 
+<<<<<<< HEAD
 
+=======
+Hi, I am Ruiman Sun. I am very happy to join in your group. I hope to make a friend with you.
+>>>>>>> d85dbc1db31b80cccddc90f6c6aad62f470b7304
