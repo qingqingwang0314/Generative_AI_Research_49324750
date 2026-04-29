@@ -1,0 +1,1 @@
+The code shows how gaussian beam propagated the how to add some distortion just like zernike polimimnals. Developers can see different simulation resluts by adjusting the L and Wo, which means the popagation length and beamsize.
